@@ -6,26 +6,24 @@ It is designed for **DSA preparation, interviews, and competitive
 programming**.
 
 ------------------------------------------------------------------------
-
+Solved problems marked as ✅
 ## 1️⃣ Two Pointers
-
 ### Easy
-
--   https://codeforces.com/problemset/problem/381/A
--   https://codeforces.com/problemset/problem/34/B
--   https://codeforces.com/problemset/problem/977/C
+- ✅  https://codeforces.com/problemset/problem/381/A
+- ✅  https://codeforces.com/problemset/problem/34/B
+- ✅  https://codeforces.com/problemset/problem/977/C
 
 ### Medium
 
--   https://codeforces.com/problemset/problem/279/B
--   https://codeforces.com/problemset/problem/6/C
--   https://codeforces.com/problemset/problem/702/B
+- ✅  https://codeforces.com/problemset/problem/279/B
+- ✅  https://codeforces.com/problemset/problem/6/C
+- ✅  https://codeforces.com/problemset/problem/702/B
 
 ### Hard
 
--   https://codeforces.com/problemset/problem/1005/C
--   https://codeforces.com/problemset/problem/670/D2
--   https://codeforces.com/problemset/problem/161/B
+- ✅  https://codeforces.com/problemset/problem/1005/C
+-      https://codeforces.com/problemset/problem/670/D2
+- ✅  https://codeforces.com/problemset/problem/161/B
 
 ------------------------------------------------------------------------
 
