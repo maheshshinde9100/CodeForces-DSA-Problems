@@ -32,8 +32,8 @@ Solved problems marked as ✅
 ### Easy
 
 - ✅ https://codeforces.com/problemset/problem/363/B
--   https://codeforces.com/problemset/problem/118/B
--   https://codeforces.com/problemset/problem/1462/A
+- ✅ https://codeforces.com/problemset/problem/118/B
+- ✅ https://codeforces.com/problemset/problem/1462/A
 
 ### Medium
 
